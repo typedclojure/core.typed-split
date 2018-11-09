@@ -15,5 +15,4 @@ tst () {
   cd ..
 }
 
-tst module-rt
 tst module-check
