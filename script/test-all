@@ -14,5 +14,3 @@ tst () {
   ./script/test
   cd ..
 }
-
-tst module-check
