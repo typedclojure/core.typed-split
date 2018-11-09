@@ -9,5 +9,6 @@
         org.clojure/core.typed.analyzer.jvm {:git/url "https://github.com/typedclojure/core.typed.analyzer.jvm"
                                              :sha "6d2638339c543d47382b0af70fc40bc6c34a45cb"
                                              :deps/manifest :deps}
-        org.clojure/core.typed {:local/root "module-check"
-                                :deps/manifest :deps}}}
+        org.clojure/core.typed.checker.jvm {:git/url "https://github.com/typedclojure/core.typed.checker.jvm"
+                                            :sha "e934f2019731f033781ae7387cc5d9e2b816717b"
+                                            :deps/manifest :deps}}}
